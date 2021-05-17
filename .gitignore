@@ -1,5 +1,7 @@
 myenv
+workspace.code-workspace
 .vscode
 website/__pycache__
 website/database.db
+
 
